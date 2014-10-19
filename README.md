@@ -21,3 +21,9 @@ To run Python server:
 ---------------------
 
 python server_ag_chat.py
+
+To set a name for client:
+-------------------------
+
+You can set name to your client by typing ":name BeautifulName".
+This will replace IP (default name) address with BeautifulName.
